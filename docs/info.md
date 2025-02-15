@@ -13,7 +13,7 @@ Explain how your project works one and gate and one nor gate
 
 ## How to test
 
-Explain how to use your project press the botos and see the dis`play
+Explain how to use your project press the botos and see the display
 
 ## External hardware
 
