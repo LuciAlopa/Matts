@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works one and gate and one nor gate 
+One and gate and one nor gate 
 
 ## How to test
 
-Explain how to use your project press the botos and see the display
+press the botoms and see the display
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any nothing
+nothing
